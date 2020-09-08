@@ -4,6 +4,7 @@
 - 📖  studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
 - 🏋🏻‍♂️  Olympic Weightlifting, and kettlebell endurance sports coach. 
 - 🇦🇷  Born and raised in Patagonia, Argentina (Rio Negro)
+- Languages: 🇺🇸 English, 🇦🇷 🇪🇸 Spanish, learning 🇩🇰 Danish
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicorithner&show_icons=true&theme=default)](https://github.com/nicorithner/github-readme-stats)
 ![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default)
