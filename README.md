@@ -1,9 +1,9 @@
 ## Welcome to Nico Rithner's GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Here are some facts about me...
 - Pronouns: He/Him
-- 📖 studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
-- :man_lifting_weights_light_skin_tone: Olympic Weightlifting, and kettlebell endurance sports coach. 
-- :flag_argentina: Born and raised in Patagonia, Argentina (Rio Negro)
+- 📖  studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
+- 🏋🏻‍♂️  Olympic Weightlifting, and kettlebell endurance sports coach. 
+- 🇦🇷  :arg: Born and raised in Patagonia, Argentina (Rio Negro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicorithner&show_icons=true&theme=default)](https://github.com/nicorithner/github-readme-stats)
 ![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicorithner&show_icons=true&theme=default)
